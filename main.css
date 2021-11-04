@@ -12,6 +12,12 @@ padding: 40px 20px;
 margin-left: 50px;
 }
 
-ul {
+li {
 boder: 1px solid black;
+}
+
+.sq {
+background: green;
+width: 400px;
+height: 400px;
 }
