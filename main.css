@@ -1,6 +1,17 @@
 h2 {
 background: green;
 }
-h1 {
+.red {
 color: red;
+}
+.padding {
+padding: 40px 20px;
+}
+
+.margin { 
+margin-left: 50px;
+}
+
+ul {
+boder: 1px solid black;
 }
