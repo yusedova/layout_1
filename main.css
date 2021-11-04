@@ -13,13 +13,12 @@ margin-left: 50px;
 }
 
 ul.bord li {
-list-style-type: none;
 boder: 1px solid black;
 background: green;
 }
 
 .sq {
 background: green;
-width: 20%;
+width: 30%;
 
 }
