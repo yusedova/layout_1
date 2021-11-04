@@ -12,11 +12,12 @@ padding: 40px 20px;
 margin-left: 50px;
 }
 
-li {
+ul.bord li {
 boder: 1px solid black;
 }
 
 .sq {
 background: green;
+width: 20%;
 
 }
