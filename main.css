@@ -5,20 +5,20 @@ background: green;
 color: red;
 }
 .padding {
-padding: 40px 60px;
+padding: 40px 50px;
 }
 
 .margin { 
 margin-left: 50px;
 }
 
-ul.bord li {
+ul.bord li {margin: 10px;
 boder: 1px solid black;
 background: green;
 }
 
 .sq {
 background: green;
-width: 30%;
+width: 40%;
 
 }
