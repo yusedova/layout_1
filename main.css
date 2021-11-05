@@ -1,5 +1,6 @@
 h2 {
 background: green;
+color: #fff;
 }
 .red {
 color: red;
@@ -12,7 +13,8 @@ padding: 40px 50px;
 margin-left: 50px;
 }
 
-ul.bord li {margin: 10px;
+ul.bord li {
+margin: 10px;
 boder: 1px solid black;
 background: green;
 }
@@ -20,5 +22,6 @@ background: green;
 .sq {
 background: green;
 width: 40%;
+color:#000;
 
 }
