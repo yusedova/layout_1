@@ -16,7 +16,6 @@ margin-left: 50px;
 
 ul.bord li {
 margin: 10px;
-display: block;
 boder: 10px solid black;
 background: green;
 }
