@@ -1,12 +1,13 @@
 h2 {
 background: green;
 color: #fff;
+padding: 10px;
 }
 .red {
 color: red;
 }
 .padding {
-padding: 40px 50px;
+padding: 30px 40px;
 }
 
 .margin { 
