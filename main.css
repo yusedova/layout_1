@@ -15,13 +15,13 @@ margin-left: 50px;
 
 ul.bord li {
 margin: 10px;
-boder: 3px solid black;
+boder: 10px solid black;
 background: green;
 }
 
 .sq {
-background: green;
+background: blue;
 width: 40%;
-color:#ffffff;
+color: #ffffff;
 
 }
