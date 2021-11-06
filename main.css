@@ -1,28 +1,28 @@
 h2 {
-background: green;
-color: #fff;
-padding: 10px;
-}
-.red {
-color: red;
-}
-.padding {
-padding: 30px 40px;
-}
-
-.margin { 
-margin-left: 50px;
-}
-
-ul.bord li {
-margin: 10px;
-boder: 10px solid black;
-background: green;
-}
-
-.sq {
-background: blue;
-width: 40%;
-color: #ffffff;
-
-}
+    background: green;
+    color: #fff;
+    padding: 10px;
+    }
+    .red {
+    color: red;
+    
+    }
+    .padding {
+    padding: 50px;
+    }
+    
+    .margin { 
+    margin-left: 50px;
+    }
+    
+    li {
+    border: 1px solid black;
+    font-size: 1.5rem;
+    }
+    
+    .sq {
+    background: blue;
+    width: 110px;
+    color: #ffffff;
+    margin-bottom: 100px;
+    }
